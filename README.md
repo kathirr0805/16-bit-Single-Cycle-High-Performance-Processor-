@@ -14,11 +14,7 @@ The project files, including Verilog source code, testbenches, and documentation
 - **Modular Design**: Components like Instruction Memory, Register File, ALU, Data Memory, Control Unit, and Sign Extension Unit are implemented as separate Verilog modules.
 - **Simulation Ready**: Includes testbenches for functional verification in Xilinx Vivado.
 - **Educational Focus**: Designed for learning computer architecture, digital logic design, and hardware-software co-design.
-
-## Access Project Files
-All project files, including Verilog source code, testbenches, Vivado project files, and documentation, are available on Google Drive:
-
-[**Access Project Files on Google Drive**](https://drive.google.com/your-folder-link-here)
+  
 
 **Instructions to Access**:
 1. Click the link above to open the Google Drive folder.
